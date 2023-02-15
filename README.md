@@ -351,7 +351,7 @@ Categorical Features:
 The predicted scores were exported as `result.csv` and submitted to the kaggle competition for scoring.
 
 ***Result*** </br>
-![Baseline Submission RMSE Score](../images/Baseline_Submission_Score.png)
+![Baseline Submission RMSE Score](../images/Kaggle_Result.png)
 
 The model obtained a RMSE score of `57984.47091` compared to the baseline RMSE score of `142970.75311`.
 
