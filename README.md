@@ -263,9 +263,7 @@ ___Most Expensive and Cheapest Resale Flat Based on Flat Type___ </br>
 ***Objective*** </br>
 The objective of this step is to build a robust model that could accurately predict the future prices of HDB resale flats. (kaggle.com/competitions/dsi-sg-project-2-regression-challenge-hdb-price)
 
-A baseline score, calculated using the mean values of existing resale prices (please refer to `Baseline_Submission.ipynb`) was submitted to the kaggle competition to obtain a RMSE score to beat:
-
-![Baseline Submission RMSE Score](../images/Baseline_Submission_Score.png)
+A baseline score, calculated using the mean values of existing resale prices (please refer to `Baseline_Submission.ipynb`) was submitted to the kaggle competition to obtain a RMSE score to beat.
 
 ___Trial #1 - Baseline___ </br>
 Baseline for feature selection and manipulation. </br>
@@ -351,9 +349,7 @@ Categorical Features:
 The predicted scores were exported as `result.csv` and submitted to the kaggle competition for scoring.
 
 ***Result*** </br>
-![Baseline Submission RMSE Score](../images/Kaggle_Result.png)
-
-The model obtained a RMSE score of `57984.47091` compared to the baseline RMSE score of `142970.75311`.
+The model obtained a RMSE score of `57984.47091` compared to the baseline RMSE score of `142970.75311` (Please refer to images in `images` folder).
 
 ## Conclusions and Recommendations
 - HDB flats are well distributed across Singapore and new flat buyers have a plethora of options to choose from.
