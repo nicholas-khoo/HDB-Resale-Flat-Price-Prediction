@@ -169,9 +169,10 @@ ___Fluctuation in Resale Prices of Flats Based on Flat Types from 2012 to 2021__
     - Widow or widower with child, and one or both parents
     - Divorcee with child, and one or both parents
     - The parents must be registered as essential occupiers of the flat.
-    - Essential occupiers cannot have another property under their name.</br>
+    - Essential occupiers cannot have another property under their name. </br>
+
 Source: </br>
-https://stackedhomes.com/editorial/when-is-it-worth-buying-a-3gen-hdb-flat/#gs.orthcy
+- https://stackedhomes.com/editorial/when-is-it-worth-buying-a-3gen-hdb-flat/#gs.orthcy
 
 - With the price converging to that similar to executive flats, flat purchasers may consider purchasing the latter due to the more flexible buying criteria.
 
