@@ -1,5 +1,7 @@
 # Housing Development Board (HDB) Resale Flat Prices Prediction
 
+___Note___: Before running the codes, please unzip `train.csv.zip` file in the `datasets` folder.
+
 ## Background
 Singapore allocates 14% of their land to address the nation's housing needs. With the evergrowing resident population (6 million as of 2023), the demand for housing flats continuously exceeds the supply. This has resulted in a yearly steady increase in housing prices.
 
